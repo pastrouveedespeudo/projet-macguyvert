@@ -2,7 +2,7 @@
 
 Le projet Macguyvert est un jeu vidéo sous Tkinter. Il faut aider Macguyvert a trouver tous les objets afin qu'il puisse sortir du donjon pour endormir le gardien !
 
-#acquis:
+# acquis:
 
   - Python
   
