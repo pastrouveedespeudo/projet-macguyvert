@@ -12,10 +12,10 @@ Le projet Macguyvert est un jeu vidéo sous Tkinter. Il faut aider Macguyvert a 
   
   - environnement virtuel
   
-# Une classe game qui constitut le labyrinthe ainsi que l'aléatoire des objets
+#Une classe game qui constitut le labyrinthe ainsi que l'aléatoire des objets
 
-#une classe movement qui permet le déplacement de Macguyvert
+#une classe movement qui permet le déplacement de Macguyvert et est appelé dans game class
 
 #Une classe Main qui lance la structure
 
-#La structure du niveau se situe dans le fichier .txt
+#La structure du niveau se situe dans le fichier .txt et est généré par labyrinth_game
